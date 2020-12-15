@@ -2,7 +2,7 @@
 import mysql.connector
 
 # connect to server
-connection = mysql.connector.connect(user='root', password='Losninos77', host='127.0.0.1', port='3308')
+connection = mysql.connector.connect(user='root', password='XXXXXXXX', host='127.0.0.1', port='3308')
 print('Connected to database.')
 cursor = connection.cursor()
 
